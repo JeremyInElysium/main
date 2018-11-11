@@ -276,7 +276,7 @@ image::AddMilestoneCommand_rankZero.png[width="790"]
 
 image::AddMilestoneCommand_invalidIndex.png[width="790"]
 
-*A*: You can only add milestones to existing tasks! In this case, there is only 1 task entered into the Task Book, hence attempting to add a milestone to index 2 of the Task Book will result in an error!
+*A*: You can only add milestones to *existing tasks*! In this case, there is only 1 task entered into the Task Book, hence attempting to add a milestone to index 2 of the Task Book will result in an error!
 // end::FAQ_milestone[]
 
 == Command Summary
